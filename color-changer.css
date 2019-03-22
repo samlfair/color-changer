@@ -1,0 +1,29 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+	background-color: white;
+	transition: all .5s;
+
+}
+
+.container {
+	margin: 0;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+	height: 100%;
+}
+
+.title {
+	margin: 12vh 18vw;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+	letter-spacing: 2px;
+	font-size: 1.5em;
+	text-shadow: 0 0 10px rgb(0,0,0,.7);
+}
